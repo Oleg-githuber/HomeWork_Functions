@@ -1,0 +1,14 @@
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+D:\GB\DZ\HomeWork_Functions\Task2\bin\Debug\net7.0\Task2.exe
+D:\GB\DZ\HomeWork_Functions\Task2\bin\Debug\net7.0\Task2.deps.json
+D:\GB\DZ\HomeWork_Functions\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+D:\GB\DZ\HomeWork_Functions\Task2\bin\Debug\net7.0\Task2.dll
+D:\GB\DZ\HomeWork_Functions\Task2\bin\Debug\net7.0\Task2.pdb
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\Task2.dll
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\refint\Task2.dll
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\Task2.pdb
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+D:\GB\DZ\HomeWork_Functions\Task2\obj\Debug\net7.0\ref\Task2.dll
