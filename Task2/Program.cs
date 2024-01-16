@@ -1,9 +1,11 @@
-﻿int SetArraySize() {
+﻿// функция задания размера массива
+int SetArraySize() {
     Console.WriteLine("Введите размер массива");
     int mySize = Int32.Parse(Console.ReadLine());
     return mySize;
 }
 
+// Функция зоздания массива
 int [] CreateArray(int mySize) {
     int [] myArray = new int [mySize];
     Random myRandom = new Random();
@@ -13,6 +15,7 @@ int [] CreateArray(int mySize) {
     return myArray;
 }
 
+// Функция вывода массива в консоль
 void PrintArray(int[] arr) {
     Console.WriteLine("");
     foreach(int e in arr) {
@@ -20,6 +23,7 @@ void PrintArray(int[] arr) {
     }
 }
 
+// Функция подсчёта чётных чисел
 void CountEven(int[] arr) {
     int sum = 0;
     foreach(int e in arr) {
